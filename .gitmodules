@@ -1,3 +1,6 @@
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/pimoroni/presto
+[submodule "PrestoDeck"]
+	path = PrestoDeck
+	url = https://github.com/fatihak/PrestoDeck.git
