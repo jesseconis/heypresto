@@ -24,4 +24,4 @@ UPDATE: I'm just an idiot 😒
 
 Always 🇷🇺 , didn't 👀 [this link](https://github.com/pimoroni/pimoroni-pico#breakouts)
 
-![pimoroni/presto - compat](issues-presto-qwst-compatibility.png)
+![pimoroni/presto - compat](docs/issues-presto-qwst-compatibility.png)
