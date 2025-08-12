@@ -20,3 +20,8 @@ Need to adapt/ask [this library](https://github.com/pimoroni/drv2605-python) for
 
 ![pimoroni/presto - modules](docs/issues-drv2605-presto-modules-py_frozen.png)
 
+UPDATE: I'm just an idiot 😒
+
+Always 🇷🇺 , didn't 👀 [this link](https://github.com/pimoroni/pimoroni-pico#breakouts)
+
+![pimoroni/presto - compat](issues-presto-qwst-compatibility.png)
