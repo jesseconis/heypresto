@@ -12,4 +12,11 @@
 
 `git submodule update --remote firmware`
 
+## 🧑‍💻 Difficulties
+
+Sorry 👼, this is "struggle" with 📳 (haptic bzzzz 🤣)
+
+Need to adapt/ask [this library](https://github.com/pimoroni/drv2605-python) for micropython env (RP2350) 🤔
+
+![pimoroni/presto - modules](docs/issues-drv2605-presto-modules-py_frozen.png)
 
