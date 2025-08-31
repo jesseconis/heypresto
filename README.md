@@ -1,5 +1,9 @@
 # README
 
+# Setup
+
+TBC
+
 # Todo 
 
 - [x] [Preorder reference board - Pimoroni Presto](https://shop.pimoroni.com/products/presto?variant=54894104052091)
